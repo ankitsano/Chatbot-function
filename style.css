@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(199, 209, 206);
+}
+
+.center{
+    text-align: center;
+    
+}
+#user{
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+}
